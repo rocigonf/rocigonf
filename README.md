@@ -51,7 +51,7 @@
 
 ###
 
-<br clear="both">
+<hr clear="both">
 
 <img src="https://raw.githubusercontent.com/rocigonf/rocigonf/output/snake.svg" alt="Snake animation" />
 
