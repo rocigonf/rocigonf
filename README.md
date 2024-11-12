@@ -51,8 +51,8 @@
 
 ###
 
-<hr clear="both">
-
-<img src="https://raw.githubusercontent.com/rocigonf/rocigonf/output/snake.svg" alt="Snake animation" />
+<div style="clear: both;">
+  <img src="https://raw.githubusercontent.com/rocigonf/rocigonf/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
