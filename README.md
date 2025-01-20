@@ -38,21 +38,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhZWkyZGdncTU4NnJwbXpueHhodnI4MnBibDk4bHhkYXNsYnVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpVHqOO49aZgs4lUAU/giphy.webp"  />
-
-###
-
+<br>
 <div align="center">
-  <img src="https://rocigonf.pythonanywhere.com?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhZWkyZGdncTU4NnJwbXpueHhodnI4MnBibDk4bHhkYXNsYnVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpVHqOO49aZgs4lUAU/giphy.webp"  />
 </div>
 
-###
-
-<div style="clear: both;">
-  <img src="https://raw.githubusercontent.com/rocigonf/rocigonf/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
