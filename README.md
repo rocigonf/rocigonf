@@ -49,7 +49,7 @@
 
 <h2 align="center">🖥 My projects 🖥</h2> <br>
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=maria99r&repo=Comunica-t&theme=radical" height="128" alt="comunica-t"/>](https://github.com/maria99r/Comunica-t)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=ProyectoMoviles&theme=radical" height="128" alt="proyectomoviles"/>](https://github.com/rocigonf/ProyectoMoviles)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=TiendaDeEstilograficas&theme=radical" height="128" alt="tiendadeestilograficas"/>](https://github.com/rocigonf/TiendaDeEstilograficas)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=maria99r&repo=Comunica-t&theme=radical" height="126" alt="comunica-t"/>](https://github.com/maria99r/Comunica-t)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=ProyectoMoviles&theme=radical" height="126" alt="proyectomoviles"/>](https://github.com/rocigonf/ProyectoMoviles)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=TiendaDeEstilograficas&theme=radical" height="126" alt="tiendadeestilograficas"/>](https://github.com/rocigonf/TiendaDeEstilograficas)
 ![car](https://github.com/user-attachments/assets/8534baae-6500-4802-9aaa-a215b14d3a5e)
