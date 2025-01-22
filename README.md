@@ -38,8 +38,18 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
 </div>
+
 <br>
+
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhZWkyZGdncTU4NnJwbXpueHhodnI4MnBibDk4bHhkYXNsYnVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpVHqOO49aZgs4lUAU/giphy.webp"  />
 </div>
 
+###
+
+<h2 align="center">🖥 My projects 🖥</h2> <br>
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=maria99r&repo=Comunica-t&theme=radical" height="150" alt="comunica-t"/>](https://github.com/maria99r/Comunica-t)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=ProyectoMoviles&theme=radical" height="150" alt="proyectomoviles"/>](https://github.com/rocigonf/ProyectoMoviles)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=TiendaDeEstilograficas&theme=radical" height="150" alt="tiendadeestilograficas"/>](https://github.com/rocigonf/TiendaDeEstilograficas)
+![sillycargit](https://github.com/user-attachments/assets/e017d3a9-7a7c-4c86-bc58-b305f4b50690)
