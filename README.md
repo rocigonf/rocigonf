@@ -52,4 +52,4 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=maria99r&repo=Comunica-t&theme=radical" height="120" alt="comunica-t"/>](https://github.com/maria99r/Comunica-t)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=ProyectoMoviles&theme=radical" height="120" alt="proyectomoviles"/>](https://github.com/rocigonf/ProyectoMoviles)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=TiendaDeEstilograficas&theme=radical" height="120" alt="tiendadeestilograficas"/>](https://github.com/rocigonf/TiendaDeEstilograficas)
-![sillycargit](https://github.com/user-attachments/assets/e017d3a9-7a7c-4c86-bc58-b305f4b50690)
+![car](https://github.com/user-attachments/assets/8534baae-6500-4802-9aaa-a215b14d3a5e)
