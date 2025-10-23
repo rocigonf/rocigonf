@@ -1,5 +1,9 @@
 <h2 align="center">Hi 👋! My name is Rocío. I'm a full-stack dev from Málaga! 👩‍💻</h2>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6d0c5264-9e9c-4264-a8fb-9e7dd76a5c00" height="63" alt="sillycar"/>
+</div>
+
 ###
 
 <div align="center">
@@ -42,14 +46,3 @@
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhZWkyZGdncTU4NnJwbXpueHhodnI4MnBibDk4bHhkYXNsYnVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpVHqOO49aZgs4lUAU/giphy.webp"  />
 </div>
-
-###
-
-<h2 align="center">🖥 My projects 🖥</h2> <br>
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=mixdrop&theme=radical" height="126" alt="comunica-t"/>](https://github.com/rocigonf/mixdrop)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=Comunica-t&theme=radical" height="126" alt="comunica-t"/>](https://github.com/rocigonf/Comunica-t)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=ProyectoMoviles&theme=radical" height="126" alt="proyectomoviles"/>](https://github.com/rocigonf/ProyectoMoviles)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=rocigonf&repo=TiendaDeEstilograficas&theme=radical" height="126" alt="tiendadeestilograficas"/>](https://github.com/rocigonf/TiendaDeEstilograficas)
-[<img src="https://github.com/user-attachments/assets/6d0c5264-9e9c-4264-a8fb-9e7dd76a5c00" height="126" alt="sillycar"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[<img src="https://github.com/user-attachments/assets/6d0c5264-9e9c-4264-a8fb-9e7dd76a5c00" height="126" alt="sillycar"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
